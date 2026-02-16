@@ -37,7 +37,7 @@ export default function Home() {
           lineHeight: 1.6,
         }}
       >
-        A roller coaster ride through 12 months of adventure.
+        A ride of dragon adventure.
         <br />
         <span style={{ fontSize: "0.85em", opacity: 0.6 }}>
           Best experienced on desktop with sound on.
