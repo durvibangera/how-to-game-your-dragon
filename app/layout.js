@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "How To Game Your Dragon",
-  description: "A roller coaster ride through 12 months of adventure",
+  description: "A roller coaster ride through 6 dragon realms of adventure",
 };
 
 export default function RootLayout({ children }) {
