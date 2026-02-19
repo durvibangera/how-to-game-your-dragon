@@ -12,16 +12,20 @@
 
 | Landing Page | Dragon Flight |
 |:---:|:---:|
-| ![Landing Page](screenshots/landing.png) | ![Dragon Flight](screenshots/flight.png) |
+| ![Landing Page](<img width="1918" height="876" alt="Screenshot 2026-02-19 174021" src="https://github.com/user-attachments/assets/9b61f6e1-de48-4947-924f-0000fb568cbe" />
+) | ![Dragon Flight](<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/5341138f-9bf9-4ac6-956c-d75589c126a1" />
+) |
 
-| Quiz Gate | Mini-Game: Siege |
+| Circuit Puzzle | Mini-Game: Siege |
 |:---:|:---:|
-| ![Quiz Gate](screenshots/quiz-gate.png) | ![Siege Game](screenshots/siege-game.png) |
+| ![Circuit Puzzle](<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/ea33ed1a-f6a7-42f1-aab5-a2df28d52cd3" />
+) | ![Siege Game](<img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/44d2cf21-d581-4943-a4c6-476d3758e04e" />
+) |
 
-| Boss Fight: Bewilderbeast | Epilogue |
-|:---:|:---:|
-| ![Boss Fight](screenshots/boss-fight.png) | ![Epilogue](screenshots/epilogue.png) |
-
+| Boss Fight: Bewilderbeast |
+|:---:|
+| ![Boss Fight](<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/476efbb2-43c4-4353-bc61-3a591e771bcb" />
+) | 
 ---
 
 ## 🎮 Overview
